@@ -24,7 +24,7 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
-        name: 'docs',
+        name: 'docs',erprintvnsetsite
         path: `${__dirname}/content/${config.docsDir}`,
       },
     },
